@@ -28,3 +28,9 @@ Detect earthquake (EQ) events by training an AE on non-earthquake (Non-EQ) backg
 - Python (NumPy, pandas, scikit-learn, TensorFlow/Keras, Matplotlib)  
 - Jupyter Notebook  
 - GitHub for version control.
+  
+## Notebooks
+- [Seismic Anomaly Detection Notebook](./Seismic_Anomaly_Detection.ipynb): Full end-to-end code for segmentation, autoencoder training, Random Forest classification, thresholding, and human activity trend analysis.
+
+## Reports
+- [Final Project Report (PDF)](./Seismic_Anomaly_Detection_Report.pdf): Detailed write-up covering methodology, experiments, results, discussion, and future directions.
