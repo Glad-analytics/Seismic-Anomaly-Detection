@@ -41,5 +41,5 @@ Detect earthquake (EQ) events by training an AE on non-earthquake (Non-EQ) backg
    - [Notebook 3 (IPYNB)](notebooks/PROJT3.ipynb)
 
 ## Reports
-- **[Final Project Report (PDF)](reports/Final_Project_Report_Anomaly_Detection.pdf)**  
+- **[Final Project Report (PDF)](reports/Final Project Report. Anomaly Detection.pdf)**  
   A comprehensive write-up covering background, methodology, experiments, results, discussion, and future directions.  
