@@ -33,6 +33,7 @@ Detect earthquake (EQ) events by training an AE on non-earthquake (Non-EQ) backg
 1. **Baseline notebook** — waveform download, segmentation, first AE baseline  
    - [Notebook 1 (IPYNB)](notebooks/PROJECT.ipynb)  
    - If GitHub can’t render it, open the **[HTML view](notebooks/PROJECT.html)** (same content, with outputs).
+     *(⚠️ Large file — please download and open locally in a browser to see code + outputs).*
 
 2. **Improved model + Human Activity Trends** — refined AE, RF on bottlenecks, activity analysis  
    - [Notebook 2 (IPYNB)](notebooks/ProjectCONTD2.ipynb)
@@ -41,5 +42,5 @@ Detect earthquake (EQ) events by training an AE on non-earthquake (Non-EQ) backg
    - [Notebook 3 (IPYNB)](notebooks/PROJT3.ipynb)
 
 ## Reports
-- **[Final Project Report (PDF)](reports/Final Project Report. Anomaly Detection.pdf)**  
+- **[Final Project Report (PDF)](reports/Final%20Project%20Report.%20Anomaly%20Detection.pdf)**  
   A comprehensive write-up covering background, methodology, experiments, results, discussion, and future directions.  
