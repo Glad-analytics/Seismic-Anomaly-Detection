@@ -30,7 +30,16 @@ Detect earthquake (EQ) events by training an AE on non-earthquake (Non-EQ) backg
 - GitHub for version control.
   
 ## Notebooks
-- [Seismic Anomaly Detection Notebook](./Seismic_Anomaly_Detection.ipynb): Full end-to-end code for segmentation, autoencoder training, Random Forest classification, thresholding, and human activity trend analysis.
+1. **Baseline notebook** — waveform download, segmentation, first AE baseline  
+   - [Notebook 1 (IPYNB)](notebooks/PROJECT.ipynb)  
+   - If GitHub can’t render it, open the **[HTML view](notebooks/PROJECT.html)** (same content, with outputs).
+
+2. **Improved model + Human Activity Trends** — refined AE, RF on bottlenecks, activity analysis  
+   - [Notebook 2 (IPYNB)](notebooks/ProjectCONTD2.ipynb)
+
+3. **Stress test (M7.5–M8.8 earthquakes)** — separation checks on large events  
+   - [Notebook 3 (IPYNB)](notebooks/PROJT3.ipynb)
 
 ## Reports
-- [Final Project Report (PDF)](./Seismic_Anomaly_Detection_Report.pdf): Detailed write-up covering methodology, experiments, results, discussion, and future directions.
+- **[Final Project Report (PDF)](reports/Final_Project_Report_Anomaly_Detection.pdf)**  
+  A comprehensive write-up covering background, methodology, experiments, results, discussion, and future directions.  
