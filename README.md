@@ -36,8 +36,9 @@ While the autoencoder–Random Forest pipeline demonstrated useful separation be
 ## Notebooks
 1. **Baseline notebook** — waveform download, segmentation, first AE baseline  
    - [Notebook 1 (IPYNB)](notebooks/PROJECT.ipynb)  
-   - If GitHub can’t render it, open the **[HTML view](notebooks/PROJECT.html)** (same content, with outputs).
-     *(⚠️ Large file — please download and open locally in a browser to see code + outputs).*
+   - If GitHub cannot render this notebook due to file size, access the full notebook here:
+   - **Full Experimental Notebook (External link)**:https://drive.google.com/file/d/125f-zP-zRrFiqCHSkbLMbgYU5J63Y3CN/view?usp=share_link
+Note: The notebook opens via download due to file size. Please open locally using Jupyter Notebook, JupyterLab, or VS Code to view all outputs.
 
 2. **Improved model + Human Activity Trends** — refined AE, RF on bottlenecks, activity analysis  
    - [Notebook 2 (IPYNB)](notebooks/ProjectCONTD2.ipynb)
