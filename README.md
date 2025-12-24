@@ -48,4 +48,8 @@ Note: The notebook opens via download due to file size. Please open locally usin
 
 ## Reports
 - **[Final Project Report (PDF)](reports/Final%20Project%20Report.%20Anomaly%20Detection.pdf)**  
-  A comprehensive write up covering background, methodology, experiments, results, discussion, and future directions.  
+  A comprehensive write up covering background, methodology, experiments, results, discussion, and future directions.
+
+## Usage Notice
+This repository is shared for academic and demonstration purposes.
+If you use or build upon this work, please cite or acknowledge the author.
